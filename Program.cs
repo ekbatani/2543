@@ -6,7 +6,7 @@ namespace _2543
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(ReversedStrings.Solution("world"));
         }
     }
 }
