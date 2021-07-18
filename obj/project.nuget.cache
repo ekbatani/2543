@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8Mw1ezMiz+VMtUERTnMp0mu/RAPpKtFdIeiKpG/BO/kkPAcqGYMViPYsssccJ65rtzCYxdzBTEsFLJL3RS67VQ==",
+  "dgSpecHash": "hcTrd8G8PbxMA1WTalgeOS94OUh37IJUsJxpRdctc5/fQUZygR/FMEAqPQ+wtRMn/dC4gHE8mtcZoyO1lpPfeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\karafarin\\Desktop\\pro\\2543\\2543.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\karafarin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }
